@@ -1,0 +1,5 @@
+name: 'MARIANAS WEB'
+type: 'module'
+descripcion: 'Pagina secudaria de marianas'
+core: '8.x'
+package: 'Mis modulos'

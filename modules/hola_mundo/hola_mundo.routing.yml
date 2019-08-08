@@ -1,0 +1,7 @@
+hola_mundo.marianas_web:
+path: 'marianas'
+def<aults:
+_controller: '\Drupal\modules\hola_mundo\src\marianasWebController::marianas'
+title: 'pagina secundaria'
+requirements:
+_permission: 'acces content'
